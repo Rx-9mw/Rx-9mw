@@ -1,4 +1,4 @@
-- 👨‍💻 Software Developer | IT Student @ WSB Merito</br>
+- 👨‍💻 Junior Software Developer | IT Student @ WSB Merito</br>
 - 🚀 Started coding at 10 with a simple HTML site in a text file — been hooked ever since.</br>
 - 💡 Specializing in Advanced Software Development, with expertise in Node.js, JavaScript, and TypeScript.</br>
 - 🎮 Passionate about physics, video games, building Gunpla, creating art, and staying active.</br>

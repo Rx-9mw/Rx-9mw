@@ -4,4 +4,3 @@
 - 🎮 Passionate about physics, video games, building Gunpla, creating art, and staying active.</br>
 - 📫 How to reach me: smonek33@gmail.com </br>
 - 😄 Pronouns: He/Him </br>
-- ⚡ Fun fact about me: Because of how much I love learning new stuff, no matter what the topic of the conversation is, I am *always* interested
